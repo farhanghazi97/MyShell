@@ -1,7 +1,6 @@
 # MyShell
-Self implementation of the Linux Shell - Bash
 
-A minimal version of the Bash Shell implemented in C
+Self implementation of the Linux Shell - Bash - implemented in C.
 
 Additional functionality added include:
 
