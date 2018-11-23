@@ -10,4 +10,8 @@ Includes added functionality such as:
     -> Supports wildcard expansion
     -> shows absolute path to executable program prior to running command
 
-To test, run "make" and then the executable.
+To test:
+
+    -> clone into repository
+    -> run "make" (If not installed , run "sudo apt install make")
+    -> run executable
