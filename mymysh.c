@@ -502,5 +502,5 @@ int strContains(char *str, char *chars)
 // done as a function to allow switching to $PS1
 void prompt(void)
 {
-   printf("mymysh$ ");
+   printf("FSG-SHELL$ ");
 }
