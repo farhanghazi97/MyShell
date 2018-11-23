@@ -1,7 +1,3 @@
-// mysh.c ... a small shell
-// Started by John Shepherd, September 2018
-// Completed by Farhan Ghazi, September/October 2018
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

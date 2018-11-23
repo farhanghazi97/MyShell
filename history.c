@@ -1,6 +1,3 @@
-// COMP1521 18s2 mysh ... command history
-// Implements an abstract data object
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
