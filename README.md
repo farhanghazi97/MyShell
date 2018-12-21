@@ -13,5 +13,5 @@ Includes added functionality such as:
 To test:
 
     -> clone into repository
-    -> run "make" (If not installed , run "sudo apt install make")
+    -> run "make" (If not installed , run "sudo apt-get install make")
     -> run executable
